@@ -22,6 +22,9 @@
   - Verdade ou Falso: True ou False
 - Exemplos com o VisuAlg:
 
+  ![image](https://user-images.githubusercontent.com/111368613/196525227-d38cb7c7-4b80-4deb-8f4a-7d6c8c284467.png)
+
+
 
 ### License
 MIT
