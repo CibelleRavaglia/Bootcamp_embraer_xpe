@@ -29,6 +29,13 @@ Linguagem formal que, por meio de uma série de instruções, possibilita que um
 - Exemplo, receita de bolo;
 - Um algoritmo não necessariamente é um programa de computador, pode ser executado e feito por qualquer pessoa;
 - Uma mesma tarefa pode ser realizada por diferentes algoritmos;
+- Exemplo de algoritmo: lâmpada
+
+<p align="left"> 
+<img width="200" height="200" src="https://user-images.githubusercontent.com/111368613/196504542-a51c8325-0461-42f5-88cb-cdbbf9632fae.png"
+</p>
+
+<h1 align="left">  </h1>  
 
 ### License
 MIT
