@@ -6,11 +6,11 @@
     💡 XP Educação – Aprenda com quem faz
 
 ##### 🛬 Overview
-###### 🤷‍♀*O que é um programa de computador???*
+##### 🤷‍♀ *O que é um programa de computador?*
 - Um programa é uma sequência de passos definidos por um programador para alcançar um objetivo;
 - Cada passo pode ser chamado de uma **instrução**.
    - Exemplo de programa: Word
-##### 🤷 *Software vs Hardware*
+##### 🤷 *Software vs. Hardware*
 - Software é o que seu computador executa, não palpável, que está rodando no computador;
 - Hardware: teclado;
 
