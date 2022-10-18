@@ -1,6 +1,6 @@
 # *Componentes de um computador*
 ***
-#### Aula 1.1
+#### Aula 1.2
     🧠 Prof. Guilherme de Assis
     💡 XP Educação – Aprenda com quem faz
 
@@ -20,6 +20,7 @@
 
 ### License
 MIT
+
 💻 **Free Software, Hell Yeah!**
 
 
