@@ -12,6 +12,8 @@
 
 ✔️ Repositório criado para registrar trilha de aprendizagem do Bootcamp da Embraer em parceria com a XPe.
 
+✔️ Embraer Social Tech.
+
 ✔️ Resumo e fichamentos dos módulos aprendidos.
 
 ✈️ Voando nos estudos!!!
@@ -47,4 +49,4 @@ ___
 
 
 # Bootcamp_embraer_xpe
-Repositório criado para registrar trilha de aprendizagem do Bootcamp da Embraer em parceria com a XPe
+Repositório criado para registrar trilha de aprendizagem do Bootcamp da Embraer em parceria com a XPe. Embraer Social Tech.
