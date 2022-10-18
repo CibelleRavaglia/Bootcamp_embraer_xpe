@@ -13,6 +13,7 @@
 ##### 🤷 *Software vs Hardware*
 - Software é o que seu computador executa, não palpável, que está rodando no computador;
 - Hardware: teclado;
+
 **Hardware é aquilo que você chuta e software é aquilo que você xinga!!!**
 ##### 🤷 *O que é uma linguagem de programação?*
 Linguagem formal que, por meio de uma série de instruções, possibilita que um programador escreva um conjunto de ordens, ações consecutivas, dados e algoritmos para criar programas que controlam o comportamento físico e lógico de uma máquina.
