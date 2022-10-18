@@ -13,6 +13,10 @@
 - Permite que o valor seja alterado;
 - As variáveis podem ter tipos diferentes: texto, número, etc.
 - Cada variável tem um identificador (nome) para que possamos utilizá-la no código;
+- Exemplo de variáveis usando o VisuAlg:
+
+   ![image](https://user-images.githubusercontent.com/111368613/196523303-52ba9018-6137-42e5-b151-342b6d8fdae9.png)
+
 
 
 ### License
