@@ -20,6 +20,9 @@
   - Ambos usados em estruturas de repetição
 - Exemplos com o VisuAlg:
 
+  ![image](https://user-images.githubusercontent.com/111368613/196526907-94ab1aec-f2fb-43c6-bdc9-b184b9e1f9e2.png)
+
+
 
 
 ### License
